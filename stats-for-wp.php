@@ -1,11 +1,11 @@
 <?php
 /*
  Plugin Name: Stats for WP
- Plugin URI:   http://github.com/statsforwp/statsforwp
+ Plugin URI:   https://github.com/statsforwp/Stats-for-WP
  Description: When users view your site, we will log user ID, view pages, referrers URL, user IP, user agent, ... and so on, to help admin understand how users working on your site  
  Version: 1.0.3
  Author: statsforwp
- Author URI: http://github.com/statsforwp/statsforwp
+ Author URI: https://github.com/statsforwp/
  Text Domain: stats-for-wp
  License: GPLv3 or later
  */
@@ -291,4 +291,5 @@ function sfw_stats_for_wp_menu()
 }
 
 add_action( 'admin_menu', 'sfw_stats_for_wp_menu');
+
 
