@@ -1,7 +1,7 @@
 === Stats for WP  ===
 Contributors: statsforwp
-Author URI: http://github.com/statsforwp/statsforwp
-Donate link: http://github.com/statsforwp/statsforwp
+Author URI: https://github.com/statsforwp/Stats-for-WP
+Donate link: https://github.com/statsforwp/Stats-for-WP
 Tags:stats, user stats, logs 
 Requires at least: 3.2
 Tested up to: 4.9.7
